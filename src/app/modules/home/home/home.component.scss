@@ -1,0 +1,35 @@
+.img{
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+
+
+}
+.btn-block{
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  margin: auto;
+  margin-top: 1%;
+  background: #4652C2;
+
+}
+
+.btn-outline-primary{
+  display: flex;
+  justify-content: center;
+  width: 30%;
+  margin: auto;
+  margin-top: 1%;
+
+}
+.btn-outline-primary:hover{
+  background: #4652C2;
+}
+p{
+ color: #6C6C6C;
+}
+.nameAndBrief{
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1155" height="448" viewBox="0 0 1155 448">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M395,382H318.033a16.991,16.991,0,0,1-16.883-15h-.227c-7.487-42.879-47.408-74-94.924-74s-87.437,31.121-94.924,74h-.228a16.992,16.992,0,0,1-16.884,15H17A16.991,16.991,0,0,1,.115,367H0V0H412V367h-.116A16.992,16.992,0,0,1,395,382Z" fill="#4a4b4d" opacity="0.35"/>
+    </clipPath>
+  </defs>
+  <g id="Organe_top_shape" data-name="Organe top shape" transform="translate(33.002 9)">
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M395,382H318.033a16.991,16.991,0,0,1-16.883-15h-.227c-7.487-42.879-47.408-74-94.924-74s-87.437,31.121-94.924,74h-.228a16.992,16.992,0,0,1-16.884,15H17A16.991,16.991,0,0,1,.115,367H0V0H412V367h-.116A16.992,16.992,0,0,1,395,382Z" transform="translate(0 24)" fill="#4a4b4d" opacity="0.28"/>
+    <path id="Shaped_subtraction" data-name="Shaped subtraction" d="M395,382H318.033a16.991,16.991,0,0,1-16.883-15h-.227c-7.487-42.879-47.408-74-94.924-74s-87.437,31.121-94.924,74h-.228a16.992,16.992,0,0,1-16.884,15H17A16.991,16.991,0,0,1,.115,367H0V0H412V367h-.116A16.992,16.992,0,0,1,395,382Z" fill="#4652c2"/>
+    <g id="Background_objects" data-name="Background objects" clip-path="url(#clip-path)">
+      <g id="background_objects-2" data-name="background objects" transform="translate(-96.683 -159)">
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="98" cy="89" rx="98" ry="89" transform="translate(29.683 104)" fill="#fff" opacity="0.14"/>
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="159" cy="144.5" rx="159" ry="144.5" transform="translate(278.683 0)" fill="#fff" opacity="0.14"/>
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="57.5" cy="52.5" rx="57.5" ry="52.5" transform="translate(119.683 236)" fill="#fff" opacity="0.14"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="10" cy="9" rx="10" ry="9" transform="translate(262.683 277)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="7" cy="6.5" rx="7" ry="6.5" transform="translate(264.683 378)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="11.5" cy="10.5" rx="11.5" ry="10.5" transform="translate(493.683 487)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="16" cy="14.5" rx="16" ry="14.5" transform="translate(342.683 289)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="127.5" cy="116" rx="127.5" ry="116" transform="translate(-0.317 378)" fill="#fff" opacity="0.14"/>
+      </g>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="127.5" cy="116" rx="127.5" ry="116" transform="translate(264 191)" fill="#fff" opacity="0.14"/>
+    </g>
+  </g>
+</svg>

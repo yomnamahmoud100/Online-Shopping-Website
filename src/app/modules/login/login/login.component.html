@@ -1,0 +1,27 @@
+<form id="frm" class="animate__animated animate__bounceInDown" [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+  <h1>Login</h1>
+  <br>
+  <p style="color: #4652C2">* in form name@example.com</p>
+  <!-- Email input -->
+  <div class="form-floating mb-3">
+    <input class="form-control" id="floatingInput" placeholder="name@example.com" formControlName="email">
+    <label for="floatingInput">Email address</label>
+  </div>
+
+  <p style="color: #4652C2">* required at least 8 character with capital characters and numbers and special characters</p>
+
+  <!-- Password input -->
+  <div class="form-floating mb-3">
+
+    <input type="Password" class="form-control" id="floatingPassword" placeholder="Password" formControlName="password" >
+    <label for="floatingPassword"> Password</label>
+  </div>
+
+  <!-- Submit button -->
+  <button id="login" type="submit" class="btn btn-primary btn-block mb-4"  [disabled]="!loginForm.valid" >Login</button>
+
+  <!-- Register buttons -->
+  <div class="text-center">
+    <p>Not a member? <a [routerLink]="'/signup'">Signup</a></p>
+  </div>
+</form>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1126.999" height="431" viewBox="0 0 1126.999 431">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M1044,365H792.237a17.006,17.006,0,0,1-16.792-14.332h-.494c-4.638-9.856-14.332-19.262-28.811-27.957a183.874,183.874,0,0,0-24.307-12.029,297.335,297.335,0,0,0-29.934-10.4,485.772,485.772,0,0,0-73.828-14.911,711.254,711.254,0,0,0-175.141,0A485.772,485.772,0,0,0,369.1,300.283a297.33,297.33,0,0,0-29.934,10.4A183.873,183.873,0,0,0,314.86,322.71c-14.479,8.7-24.173,18.1-28.811,27.957h-.494A17.006,17.006,0,0,1,268.763,365H17A17.006,17.006,0,0,1,.208,350.667H0V0H1061V350.667h-.208A17.007,17.007,0,0,1,1044,365Z" transform="translate(0 0)" fill="#4a4b4d" opacity="0.35"/>
+    </clipPath>
+  </defs>
+  <g id="Organe_top_shape" data-name="Organe top shape" transform="translate(33 9)">
+    <path id="Subtraction_2" data-name="Subtraction 2" d="M1044,365H792.237a17.006,17.006,0,0,1-16.792-14.332h-.494c-4.638-9.856-14.332-19.262-28.811-27.957a183.874,183.874,0,0,0-24.307-12.029,297.335,297.335,0,0,0-29.934-10.4,485.772,485.772,0,0,0-73.828-14.911,711.254,711.254,0,0,0-175.141,0A485.772,485.772,0,0,0,369.1,300.283a297.33,297.33,0,0,0-29.934,10.4A183.873,183.873,0,0,0,314.86,322.71c-14.479,8.7-24.173,18.1-28.811,27.957h-.494A17.006,17.006,0,0,1,268.763,365H17A17.006,17.006,0,0,1,.208,350.667H0V0H1061V350.667h-.208A17.007,17.007,0,0,1,1044,365Z" transform="translate(0 24)" fill="#4a4b4d" opacity="0.28"/>
+    <path id="Shaped_subtraction" data-name="Shaped subtraction" d="M1044,365H792.237a17.006,17.006,0,0,1-16.792-14.332h-.494c-4.638-9.856-14.332-19.262-28.811-27.957a183.874,183.874,0,0,0-24.307-12.029,297.335,297.335,0,0,0-29.934-10.4,485.772,485.772,0,0,0-73.828-14.911,711.254,711.254,0,0,0-175.141,0A485.772,485.772,0,0,0,369.1,300.283a297.33,297.33,0,0,0-29.934,10.4A183.873,183.873,0,0,0,314.86,322.71c-14.479,8.7-24.173,18.1-28.811,27.957h-.494A17.006,17.006,0,0,1,268.763,365H17A17.006,17.006,0,0,1,.208,350.667H0V0H1061V350.667h-.208A17.007,17.007,0,0,1,1044,365Z" transform="translate(0 0)" fill="#4652c2"/>
+    <g id="Background_objects" data-name="Background objects" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <g id="background_objects-2" data-name="background objects" transform="translate(-249.796 -151.924)">
+        <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="252.374" cy="85.039" rx="252.374" ry="85.039" transform="translate(77.257 99.372)" fill="#fff" opacity="0.14"/>
+        <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="409.463" cy="138.07" rx="409.463" ry="138.07" transform="translate(718.492)" fill="#fff" opacity="0.14"/>
+        <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="148.076" cy="50.164" rx="148.076" ry="50.164" transform="translate(309.029 225.498)" fill="#fff" opacity="0.14"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="25.752" cy="8.599" rx="25.752" ry="8.599" transform="translate(677.289 264.673)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="18.027" cy="6.211" rx="18.027" ry="6.211" transform="translate(682.439 361.178)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="29.615" cy="10.033" rx="29.615" ry="10.033" transform="translate(1272.169 465.328)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="41.204" cy="13.855" rx="41.204" ry="13.855" transform="translate(883.308 276.139)" fill="#fff" opacity="0.21"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="328.343" cy="110.838" rx="328.343" ry="110.838" transform="translate(0 361.178)" fill="#fff" opacity="0.14"/>
+      </g>
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="328.343" cy="110.838" rx="328.343" ry="110.838" transform="translate(679.867 182.5)" fill="#fff" opacity="0.14"/>
+    </g>
+  </g>
+</svg>
